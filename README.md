@@ -1,2 +1,2 @@
-# frontend-tech-study
-udemy frontend lecture
+# backend-tech-study
+- 남궁성 Spring 강의 정리
